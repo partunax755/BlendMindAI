@@ -20,14 +20,14 @@ A free Groq API key and/or a free Gemini API key
 How to get your API Keys
 Groq (free)
 
-Go to console.groq.com
+Go to [console.groq.com](https://console.groq.com)
 Create an account
 Go to API Keys and click Create API Key
 Copy your key (it starts with gsk_)
 
 Gemini (free)
 
-Go to aistudio.google.com/apikey
+Go to [aistudio.google.com/apikey](https://aistudio.google.com/apikey)
 Sign in with your Google account
 Click Create API Key
 Copy your key
